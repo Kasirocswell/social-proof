@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;500;700&display=swap');
+
+
+  #main {
+    background-image: url('/src/Components/images/bg-pattern-top-mobile.svg'), url('/src/Components/images/bg-pattern-bottom-mobile.svg');
+    background-position: top left, bottom left;
+    background-repeat: no-repeat;
+    background-size: 374px, 232px, 1085px, 673px;
+  }

@@ -1,0 +1,4 @@
+
+#main {
+  background-image: url('../src/Components/images/bg-pattern-top-mobile.svg') left 45vw top 44vh no-repeat, url('../src/Components/images/bg-pattern-bottom-mobile.svg') right 48vw bottom 40vh no-repeat;
+}
